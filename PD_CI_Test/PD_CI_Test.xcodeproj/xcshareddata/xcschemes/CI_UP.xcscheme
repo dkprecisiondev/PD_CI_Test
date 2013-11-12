@@ -39,7 +39,7 @@
    <TestAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
+      shouldUseLaunchSchemeArgsEnv = "NO"
       buildConfiguration = "Debug">
       <Testables>
          <TestableReference
@@ -56,9 +56,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "362F61F81829D2FA001CEB0C"
-            BuildableName = "PD_CI_Test.app"
-            BlueprintName = "PD_CI_Test"
+            BlueprintIdentifier = "362F62241829D2FA001CEB0C"
+            BuildableName = "PD_CI_TestTests.xctest"
+            BlueprintName = "PD_CI_TestTests"
             ReferencedContainer = "container:PD_CI_Test.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
